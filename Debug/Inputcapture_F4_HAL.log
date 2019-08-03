@@ -1,0 +1,6 @@
+﻿  VisualGDB: Run "C:\SysGCC\arm-eabi\bin\make.exe  CONFIG=Debug -j4" in directory "D:\work\STM32\STM32CubeMX\stm32cubemxWJ\Inputcapture_F4_HAL" on local computer
+  make: Nothing to be done for `all'.
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 11KB out of 1024KB (1%)
+  Used SRAM: 180 bytes out of 128KB (0%)
+  Used CCMRAM: 0 bytes out of 64KB (0%)
